@@ -1,0 +1,14 @@
+{
+  "root": true,
+  "env": { "browser": true, "es2020": true },
+  "extends": ["airbnb", "airbnb/hooks", "plugin:react/jsx-runtime", "prettier"],
+  "ignorePatterns": ["dist", ".eslintrc"],
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["react-refresh"],
+  "rules": {
+    "react-refresh/only-export-components": ["warn", { "allowConstantExport": true }],
+    "quotes": ["error", "double"],
+    "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
+    "no-shadow": ["error", { "allow": ["state"] }]
+  }
+}
