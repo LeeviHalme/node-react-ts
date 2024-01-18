@@ -1,0 +1,10 @@
+{
+  "name": "node-react-ts",
+  "version": "1.0.0",
+  "description": "Node.js, React (Vite), TypeScript, Yarn Workspaces Project Template",
+  "main": "index.js",
+  "repository": "git@github.com:LeeviHalme/node-react-ts.git",
+  "author": "LeeviHalme <29179759+LeeviHalme@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true
+}
