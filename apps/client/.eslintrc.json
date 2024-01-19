@@ -9,7 +9,6 @@
     "react-refresh/only-export-components": ["warn", { "allowConstantExport": true }],
     "quotes": ["error", "double"],
     "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
-    "no-shadow": ["error", { "allow": ["state"] }],
     "react/function-component-definition": ["error", { "namedComponents": "arrow-function" }]
   }
 }
