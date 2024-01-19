@@ -1,6 +1,6 @@
 # node-react-ts
 
-![CI](https://github.com/LeeviHalme/node-react-ts/actions/workflows/ci/badge.svg)
+![CI](https://github.com/LeeviHalme/node-react-ts/actions/workflows/ci.yml/badge.svg)
 
 Node.js, React (Vite), TypeScript, ESLint, Yarn Workspaces Monorepo Template. It contains a React application built with Vite and a minimal Node.js app skeleton. Both apps are 100% TypeScript and use a [custom ESLint config](#eslint).
 
