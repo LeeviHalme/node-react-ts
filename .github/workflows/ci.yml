@@ -29,4 +29,4 @@ jobs:
         run: yarn install --frozen-lockfile
 
       - name: Lint Codebase
-        run: yarn workspaces foreach -A run lint
+        run: yarn workspaces run lint
